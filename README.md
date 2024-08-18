@@ -2,6 +2,7 @@
 
 ## sample admin request:
 url: localhost:8080/admin/addUser
+
 sample header:
 {
     "userId": 2134,
@@ -21,3 +22,6 @@ request body:
 
 ## sample user request
 url: localhost:8080/user/{Resource}
+
+## access file
+access.txt contains all users & access
