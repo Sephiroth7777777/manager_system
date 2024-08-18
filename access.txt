@@ -1,0 +1,13 @@
+111->admin:Resource X
+1243->user:Resource C,Resource E,Resource R,
+123->user:Resource A,Resource B,
+2134->user:Resource V,Resource B,
+1237->user:Resource A,Resource E,
+1222->user:Resource A,Resource E,
+11->user:Resource A,Resource E,
+1->user:Resource A,Resource E,
+131->user:Resource A,Resource E,
+112->user:Resource A,Resource E,
+1212->user:Resource A,Resource F,
+12212->user:Resource A,Resource F,
+122212->user:Resource A,Resource F,
